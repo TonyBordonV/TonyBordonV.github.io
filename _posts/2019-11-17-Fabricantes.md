@@ -16,6 +16,14 @@ Amazon presenta tambien su linea de sartenes fundidas pero no tenemos clara su f
 
 Todas las sartenes ya sean de hierro fundido o mineral b son de hierro del de verdad, del que se oxida con el oxigeno. Si bien el fundido ofrece un aspecto negro y rugoso el mineral b nos da un aspecto liso y metalico, al menos cuando la sacamos de la caja.
 
+
+![_config.yml]({{ site.baseurl }}/images/mineral b.jpg)
+
+
+
+
+![_config.yml]({{ site.baseurl }}/images/sarten hierro fundido.jpg)
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/consejos.jpg)
+
