@@ -2,7 +2,15 @@
 layout: post
 title: Fabricantes
 ---
-Habitualmente las sartenes que tenemos mas en mente son las que vemos habitualmente en el supermercado y la mayoria de nuestras cocinas. Sartenes fabricadas en distintos materiales con el objetivo de ser mas ligeras, antiadherentes, se puedan lavar facilmente y no requieran mantenimiento lo cual resulta siempre mas atractivas a los consumidores.
+Son muchos los fabricantes de sartenes de hierro. Si bien las marcas mas populares son europeas o norteamericanas cada vez mas, como ocurre con todo se van haciendo hueco las sartenes de hierro fabricadas en Asia.
+
+En Europa tenemos varios fabricantes de prestigio:
+Las francesas Le Creuset y De Buyer
+La sueca Carl Victor
+
+Estados Unidos compite con Lodge y Utopia kitchen
+
+Amazon presenta tambien su linea de sartenes fundidas pero no tenemos clara su fabricación, asi que ante la duda, fabricación asiatica.
 
 ## Hierro fundido o mineral b
 
