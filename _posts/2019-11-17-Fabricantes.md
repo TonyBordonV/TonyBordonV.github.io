@@ -31,6 +31,6 @@ Las hay desde 15€ hasta los 140€, pero la media no supera los 35€.
 
 ![_config.yml]({{ site.baseurl }}/images/sarten hierro fundido.jpg)
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
 
 
